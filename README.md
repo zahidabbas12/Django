@@ -10,9 +10,6 @@ This repository is a collection of the Django projects I've built while learning
 2. **Project 2 - Blog Project**  
    A blog application developed by following Dave Gray's tutorial. This project covers CRUD operations, user authentication, and the use of Django's admin interface for managing blog posts.
 
-3. **Project 5 - SaaS Foundations **  
-   Currently working on the SaaS Foundations project, following the tutorial by Coding for Entrepreneurs. This project is focused on building a Software as a Service (SaaS) application, covering more advanced Django concepts such as subscription models, user management, and billing integration.
-
 ## Key Concepts Learned
 
 - Django Models, Views, and Templates (MVT)
